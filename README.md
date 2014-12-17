@@ -1,15 +1,18 @@
-Hosted on Google Code at http://code.google.com/p/ribet-stein-modforms/
-See also http://wstein.org/books/ribet-stein
+# What is This?
 
-AUTHORS: This is a book by Ken Ribet and William Stein entitled
+This is a book by Ken Ribet and William Stein entitled
 "Lectures on Modular Forms and Hecke Operators".
 
-BACKGROUND: This book began when the second author typed notes for the
+# Background
+
+This book began when the second author typed notes for the
 first author's 1996 Berkeley course on modular forms with a view
 toward explaining some of the key ideas in Wiles's celebrated proof of
 Fermat's Last Theorem. The second author then expanded and rewrote the
 notes while teaching a course at Harvard in 2003 on modular abelian
 varieties.
+
+# Audience
 
 The intended audience of this book is advanced graduate students and
 mathematical researchers. This book is more advanced than those of
