@@ -3851,10 +3851,10 @@ Then
 \[
 f|T_p = \begin{cases}
 \displaystyle
-\sum_{n=1}^{\infty} a_{np}q^n + p^{k-1}\eps(p)
+\sum_{n=1}^{\infty} a_{np}q^n + \eps(p)p^{k-1}
                    \sum_{n=1}^{\infty} a_n{}q^{pn},  &p\nd N\\
 \displaystyle
-\sum_{n=1}^{\infty} a_{np}q^n + 0. &p\mid N.
+\sum_{n=1}^{\infty} a_{np}q^n. &p\mid N.
 \end{cases}
 \]
 Note that $\eps(p)=0$ when $p\mid N$, so the second part of the formula
@@ -3868,9 +3868,9 @@ potentially confusing, to write $T_p(f)$ instead of $f|T_p$.
 We record the relations
 \begin{align*}
 T_mT_n&=T_{mn},\quad (m,n)=1,\\%
- T_{p^k}&=\begin{cases}
-   (T_p)^k, & p\mid N\\
-   T_{p^{k-1}}T_p - \eps(p)p^{k-1}T_{p^{k-2}}, & p\nd N.
+ T_{p^r}&=\begin{cases}
+   (T_p)^r, & p\mid N\\
+   T_{p^{r-1}}T_p - \eps(p)p^{k-1}T_{p^{r-2}}, & p\nd N.
 \end{cases}
 \end{align*}
 
