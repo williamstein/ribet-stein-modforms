@@ -3,6 +3,11 @@
 This is a book by Ken Ribet and William Stein entitled
 "Lectures on Modular Forms and Hecke Operators".
 
+# Links
+
+- https://www.ams.org/open-math-notes/omn-view-listing?listingId=111345 - the AMS Open Math Notes page for this book, which has a copy of a PDF version.
+- https://wstein.org/books/ribet-stein/ - my personal webpage about the book
+
 # Background
 
 This book began when the second author typed notes for the
